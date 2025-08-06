@@ -44,3 +44,9 @@ In today’s fast-paced and diverse job market, students often feel overwhelmed 
 
 
 
+
+## ✅ **Project PPT and PDF**
+[IBM Cloud_project.pptx](https://github.com/user-attachments/files/21623047/IBM.Cloud.pptx)
+
+[IBM Cloud Project.pdf](https://github.com/user-attachments/files/21623081/IBM.Cloud.Project.pdf)
+
