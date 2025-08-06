@@ -38,9 +38,22 @@ In today’s fast-paced and diverse job market, students often feel overwhelmed 
   - Watson Assistant export/import
 
 
-## ✅ **Project Images**
+## ✅ **Project Final Result Images**
+<img width="1919" height="905" alt="Screenshot 2025-07-31 232835" src="https://github.com/user-attachments/assets/a90f50fa-d44b-4950-aa81-8c437845f22b" />
 <img width="1917" height="905" alt="Screenshot 2025-07-31 232925" src="https://github.com/user-attachments/assets/d9f18772-7d95-466b-b3c2-7c8918e0ae63" />
 <img width="1919" height="914" alt="Screenshot 2025-07-31 233123" src="https://github.com/user-attachments/assets/5f763ec7-a691-4b7b-bf75-ec2ad3698cdc" />
+
+
+
+## ✅ **Project  Images**
+<img width="986" height="878" alt="Screenshot 2025-07-31 225513" src="https://github.com/user-attachments/assets/1afa4911-c0ca-4da8-be12-ba4335525339" />
+<img width="1913" height="909" alt="Screenshot 2025-07-31 225931" src="https://github.com/user-attachments/assets/43136a7a-932a-4908-8c4d-23f2496cba9a" />
+<img width="1905" height="907" alt="Screenshot 2025-07-31 230218" src="https://github.com/user-attachments/assets/7d8dd640-4286-4a19-8488-e41a611cf897" />
+
+
+
+
+
 
 
 
