@@ -46,7 +46,7 @@ In today’s fast-paced and diverse job market, students often feel overwhelmed 
 
 
 ## ✅ **Project  Images**
-<img width="986" height="878" alt="Screenshot 2025-07-31 225513" src="https://github.com/user-attachments/assets/1afa4911-c0ca-4da8-be12-ba4335525339" />
+
 <img width="1913" height="909" alt="Screenshot 2025-07-31 225931" src="https://github.com/user-attachments/assets/43136a7a-932a-4908-8c4d-23f2496cba9a" />
 <img width="1905" height="907" alt="Screenshot 2025-07-31 230218" src="https://github.com/user-attachments/assets/7d8dd640-4286-4a19-8488-e41a611cf897" />
 
